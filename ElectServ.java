@@ -43,5 +43,6 @@ public class  ElectServ extends HttpServlet
 		{
 			System.out.println("Problem is : "+e);
 		}
+		System.out.println("End");
 	}//end of service
 }
